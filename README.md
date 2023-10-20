@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor júnior atualmente contratado pela SERGIPETEC, onde trabalho no BANSE. Estou empolgado com a minha jornada no mundo da tecnologia e do desenvolvimento de software.
+Sou um desenvolvedor júnior atualmente contratado pela SERGIPETEC, onde trabalho no BANESE. Estou empolgado com a minha jornada no mundo da tecnologia e do desenvolvimento de software.
 
 ## Minhas Atividades
 
@@ -31,9 +31,10 @@ Tenho experiência em diversas linguagens de programação, incluindo:
 
 Você pode me encontrar nas seguintes redes sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/yuri-garcia-09854b20a/)
-- [WhatsApp](https://wa.me/5579988636388) (Clique para enviar uma mensagem via WhatsApp)
-- [Instagram](https://www.instagram.com/yurirgarcia/)
+
+- [WhatsApp](https://wa.me/5579988636388) (Clique para enviar uma mensagem via WhatsApp)<br>
+<a href="https://www.instagram.com/yurirgarcia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/mayke-erick-14a36420a/](https://www.linkedin.com/in/yuri-garcia-09854b20a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Entre em Contato
 
