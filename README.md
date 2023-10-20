@@ -2,7 +2,7 @@
 
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YuriGarciaRibeiro&theme=dark&mode=weekly"/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGarciaRibeiro&layout=compact&langs_count=7&theme=dark)
+<img height="180em" src="https://api.githubtrends.io/user/svg/YuriGarciaRibeiro/langs?time_range=one_year&compact=True&theme=dark"/>
 
 ## Sobre Mim
 
