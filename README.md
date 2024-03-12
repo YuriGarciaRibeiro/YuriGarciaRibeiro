@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor júnior atualmente contratado pela SERGIPETEC, onde trabalho no BANESE. Estou empolgado com a minha jornada no mundo da tecnologia e do desenvolvimento de software.
+Sou um desenvolvedor Pleno atualmente contratado pela SERGIPETEC, onde trabalho no BANESE. Estou empolgado com a minha jornada no mundo da tecnologia e do desenvolvimento de software.
 
 ## Minhas Atividades
 
@@ -23,8 +23,6 @@ Sou um desenvolvedor júnior atualmente contratado pela SERGIPETEC, onde trabalh
 Tenho experiência em diversas linguagens de programação, incluindo:
 
 - Python
-- Flutter
-- Java
 - C#
 
 ## Redes Sociais
