@@ -1,43 +1,62 @@
-# Olá, sou Yuri Garcia Ribeiro! 👋
+## Olá 👋, Eu sou [Yuri!](https://github.com/YuriGarciaRibeiro/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/yurigarciaribeiro))
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YuriGarciaRibeiro&theme=dark&mode=weekly"/>
-<img height="180em" src="https://api.githubtrends.io/user/svg/YuriGarciaRibeiro/langs?time_range=one_year&compact=True&theme=dark"/>
+### Que bom te ver aqui!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuriGarciaRibeiro&label=Profile%20views&color=0e75b6&style=flat" alt="YuriGarciaRibeiro"/></p>
+Olá! Sou um Desenvolvedor Back-End com 2 anos de experiência, atuando em projetos desafiadores na Protech Solutions 🚀. Minha especialidade é construir sistemas robustos e escaláveis, focando em qualidade de código e boas práticas de arquitetura.
 
-## Sobre Mim
+**Atualmente:**  
+- 🛠 Construindo APIs de alta performance com **.NET 9** e **Docker**
+- 🚀 Explorando **Swift** para desenvolvimento iOS/macOS
+- 🚀 Explorando Golang para soluções de alta concorrência
+- 🐳 Trabalhando com Docker e Kubernetes para deploy em ambientes cloud
 
-Sou um desenvolvedor Pleno atualmente contratado pela SERGIPETEC, onde trabalho no BANESE. Estou empolgado com a minha jornada no mundo da tecnologia e do desenvolvimento de software.
+<hr>
+<h3 align="left">✨ Frase Aleatória de Dev:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
 
-## Minhas Atividades
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-- 🖥️ Trabalhando em projetos desafiadores e empolgantes no BANSE.
-- 📚 Continuamente aprendendo e aprimorando minhas habilidades em programação.
-- 💬 Compartilhando conhecimento e projetos aqui no GitHub e em outras plataformas.
+### Sobre Mim:
 
-## Educação
+- 🛠 &nbsp; Atualmente trabalho com C#, .NET..
+- 🚀 &nbsp; Estou explorando Golang e Swift.
+- 📫 &nbsp; Entre em contato: Yurirgarciar@gmail.com.
 
-- 🎓 Atualmente, estou cursando Ciências da Computação na Universidade Tiradentes (UNIT).
+### 🧰 Tech Stack Completo:
+| **Categoria**       | **Tecnologias & Ferramentas**                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| **Backend**          | C# • .NET Core • ASP.NET • Go • Python                                                        |
+| **Frontend**          | React •                                                        |
+| **Banco de Dados**   | SQL Server • PostgreSQL • Redis                                                               |
+| **Metodologias Ágeis**  | Scrum  • Sprints • OKRs                                                               |
+| **Ferramentas de Gestão** | Azure DevOps 
+| **Cloud & DevOps**   | Docker • Kubernetes • jenkins                                              |
+| **Ferramentas**      | Visual Studio • VS Code • Git • Postman • ApiDog                                                      |
+| **Testes**           | xUnit                                                                                  |
 
-## Linguagens Favoritas
+### Linguagens e Ferramentas:
 
-Tenho experiência em diversas linguagens de programação, incluindo:
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,golang,typescript,python,nodejs,aws,docker,vscode,postgres,redis,git,kubernetes,azure,react,bash,discord,github,jenkins,postgres,rabbitmq,swift,visualstudio,windows)](https://skillicons.dev)
 
-- Python
-- C#
+### Projetos e Coisas de Dev:
 
-## Redes Sociais
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-Você pode me encontrar nas seguintes redes sociais:
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriGarciaRibeiro&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGarciaRibeiro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <a href="https://github.com/YuriGarciaRibeiro/github-contributor-stats">
+  
+</a>
+</details>
 
+<details> <br /> <summary><b>⚙️ Ferramentas que uso para trabalhar</b></summary> <ul> <li><b>Sistema Operacional:</b> MacOS Sequoia/Windows 11</li> <li><b>Computadores: </b> Macbook Air M2 / PC Desktop</li> <li><b>Navegador: </b> Chrome & Safari</li> <li><b>Terminal: </b> ZSH: Oh My Zsh / Powershell</li> <li><b>Editor de Código:</b> VSCode </li> <li><b>Outras Ferramentas:</b> Postman, Notion</li> </ul> </details>
 
-- [WhatsApp](https://wa.me/5579988636388) (Clique para enviar uma mensagem via WhatsApp)<br>
-<a href="https://www.instagram.com/yurirgarcia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/mayke-erick-14a36420a/](https://www.linkedin.com/in/yuri-garcia-09854b20a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-## Entre em Contato
-
-Adoraria conhecer novas pessoas, colaborar em projetos interessantes ou apenas bater um papo. Não hesite em entrar em contato comigo!
-
-## Obrigado por Visitar
-
-Agradeço por visitar o meu perfil. Sinta-se à vontade para seguir e me acompanhar nas redes sociais para ficar atualizado com as minhas atividades e projetos mais recentes. Seja bem-vindo!
+#
